@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead *.dhall set filetype=dhall
+autocmd BufNewFile,BufRead *.dhall setf dhall
